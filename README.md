@@ -1,5 +1,4 @@
 ## Hi, I’m Mamatch
-Here is my <a href="https://github.com/eteil">old account</a>
 
 <hr>
   <details>
